@@ -1,5 +1,5 @@
 """
-This part of code is to inspect and analyze data with purposes of:
+This part of code is to inspect and analyze source historical data with purposes of:
 1. Understand the data, inform the team of key data variable descriptions.
 2. Ensure the information provides is suitable for generating clear and meaningful insights.
 3. Explore dataset to find any unusual values and outliers.
